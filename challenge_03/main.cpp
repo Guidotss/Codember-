@@ -42,7 +42,7 @@ int main() {
     }
 
     cout << "Invalid passwords: " << invalids_passwords.size() << endl;
-    cout << "Position 42: " << invalids_passwords[42] << endl;
+    cout << "Position 42: " << invalids_passwords[41] << endl;
     cout << "Valid passwords: " << valids_passwords.size() << endl;
 
     return 0; 

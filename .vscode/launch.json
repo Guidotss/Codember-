@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Administrator/Desktop/codember/challenge_01",
-      "program": "c:/Users/Administrator/Desktop/codember/challenge_01/build/Debug/outDebug",
+      "cwd": "c:/Users/Administrator/Desktop/codember/challenge_03",
+      "program": "c:/Users/Administrator/Desktop/codember/challenge_03/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
